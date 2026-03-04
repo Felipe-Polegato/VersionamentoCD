@@ -1,0 +1,12 @@
+body{
+    background-color: #9923ff;
+}
+
+h1{
+    font-weight: 600;
+    color: aliceblue;
+    font-style: italic;
+    border: 2px  solid white;
+    border-radius: 10px;
+    
+}
