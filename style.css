@@ -1,12 +1,12 @@
 body{
-    background-color: #239497;
+    background-color: darkblue;
 }
 
 h1{
     font-weight: 600;
-    color: #ffffff;
+    color: darkorange;
     font-style: italic;
-    border: 2px  solid #ffffff;
+    border: 2px  solid darkorange;
     border-radius: 10px;
     
 }
