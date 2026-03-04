@@ -1,12 +1,12 @@
 body{
-    background-color: #235497;
+    background-color: #239497;
 }
 
 h1{
     font-weight: 600;
-    color: #299999;
+    color: #ffffff;
     font-style: italic;
-    border: 2px  solid #299999;
+    border: 2px  solid #ffffff;
     border-radius: 10px;
     
 }
